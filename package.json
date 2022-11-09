@@ -1,0 +1,19 @@
+{
+  "name": "messenger",
+  "version": "0.0.1",
+  "description": "Messenger from book 'Node js in action'",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilya",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
+  }
+
+}
